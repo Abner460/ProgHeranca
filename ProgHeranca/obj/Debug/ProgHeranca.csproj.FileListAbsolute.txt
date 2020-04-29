@@ -1,0 +1,7 @@
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgHeranca\ProgHeranca\obj\Debug\ProgHeranca.csprojAssemblyReference.cache
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgHeranca\ProgHeranca\obj\Debug\ProgHeranca.csproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgHeranca\ProgHeranca\bin\Debug\ProgHeranca.exe.config
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgHeranca\ProgHeranca\bin\Debug\ProgHeranca.exe
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgHeranca\ProgHeranca\bin\Debug\ProgHeranca.pdb
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgHeranca\ProgHeranca\obj\Debug\ProgHeranca.exe
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgHeranca\ProgHeranca\obj\Debug\ProgHeranca.pdb
